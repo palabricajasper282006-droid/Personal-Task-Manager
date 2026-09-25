@@ -1,9 +1,9 @@
 # Personal Task Manager
 
-Project Code WST21-PM-2026-SF
-Student Name: Palabrica, Jasper N.
-Course & Year: BSIT 2
-Database Used: SQLite
+**Project Code:** WST21-PM-2026-SF
+**Student Name:** Palabrica, Jasper N.
+**Course & Year:** BSIT 2
+**Database Used:** SQLite
 
 ## Features
 
