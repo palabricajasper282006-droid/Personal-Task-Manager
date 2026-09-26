@@ -19,10 +19,10 @@
 ## System Feature
 
 **1. Main Dashboard**
-<img width="1520" height="637" alt="Screenshot 2026-09-26 134505" src="https://github.com/user-attachments/assets/1db3ff08-4daa-41c1-aa61-b17b93b0921e" />
+<img width="1518" height="662" alt="image" src="https://github.com/user-attachments/assets/7b51cd5e-5117-40a8-9ba0-33e3aaf8ed7d" />
 
 **2. Add Task**
-<img width="1503" height="637" alt="image" src="https://github.com/user-attachments/assets/b88efe60-29df-4523-b736-ef00894678d3" />
+<img width="1475" height="681" alt="image" src="https://github.com/user-attachments/assets/ea651867-2cbb-432d-97e4-583c30cb9be8" />
 
 **3. View Task**
 <img width="1467" height="692" alt="image" src="https://github.com/user-attachments/assets/bae0468b-9a57-4983-a444-052c1a904a0e" />
