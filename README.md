@@ -28,6 +28,6 @@
 <img width="1467" height="692" alt="image" src="https://github.com/user-attachments/assets/bae0468b-9a57-4983-a444-052c1a904a0e" />
 
 **4. Edit Task**
-<img width="1473" height="691" alt="image" src="https://github.com/user-attachments/assets/17d74b67-191d-4464-9eec-a9c92ca16b3c" />
+<img width="1480" height="683" alt="Screenshot 2026-09-26 135405" src="https://github.com/user-attachments/assets/fda78e4e-542e-4dd7-b7ce-272f0b530593" />
 
 
